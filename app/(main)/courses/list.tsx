@@ -1,7 +1,7 @@
 "use Client";
 
 import { courses } from "@/db/schema";
-import { Card } from "./cartd";
+import { Card } from "./card";
 
 
 type Props = {
